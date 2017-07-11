@@ -1,0 +1,39 @@
+-note-----------------
+*can't appear 's' and 'f' with big write
+* s means string data in excel
+* f means float data in excel
+-create flag-----------
+C19
+-info-----------------
+S0451
+S0352
+S0153
+S0254
+-elec-----------------
+S2055
+S1056
+S1157
+S1258
+F1359
+F1460
+S2461
+-manager-----------------
+S2162
+S0563
+F0664
+F0765
+S2566
+-cold-----------------
+S2267
+S0568
+F0869
+F0970
+S2671
+-other-----------------
+F1572
+S2773
+-total-----------------
+S1774
+F1675
+S2876
+S2977

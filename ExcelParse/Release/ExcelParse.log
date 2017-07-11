@@ -1,0 +1,32 @@
+﻿Build started 2017/7/8 20:47:54.
+     1>Project "F:\project\ExcelParse\ExcelParse\ExcelParse\ExcelParse.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\ExcelParse.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\ExcelParse.res" ExcelParse.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\project\ExcelParse\ExcelParse\Release\单据生成系统.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\单据生成系统.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\project\ExcelParse\ExcelParse\Release\单据生成系统.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\project\ExcelParse\ExcelParse\Release\单据生成系统.lib" /MACHINE:X86 Release\ExcelParse.res
+         Release\ExcelHandler.obj
+         Release\OperateExcelFile.obj
+         Release\ExcelParse.obj
+         Release\ExcelParseDlg.obj
+         Release\FormatTransfer.obj
+         Release\ReadConfig.obj
+         Release\stdafx.obj
+         Release\OperateWordFile.obj
+         正在生成代码
+         已完成代码的生成
+         ExcelParse.vcxproj -> F:\project\ExcelParse\ExcelParse\Release\单据生成系统.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\project\ExcelParse\ExcelParse\Release\单据生成系统.exe;#1" /manifest "Release\单据生成系统.exe.intermediate.manifest" "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\ExcelParse.unsuccessfulbuild".
+         Touching "Release\ExcelParse.lastbuildstate".
+     1>Done Building Project "F:\project\ExcelParse\ExcelParse\ExcelParse\ExcelParse.vcxproj" (build target(s)).
+
+生成成功。
+
+Time Elapsed 00:00:01.29
